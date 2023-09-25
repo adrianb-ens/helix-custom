@@ -2,4 +2,4 @@ mountpoints:
   /:
     url: https://frank.naiscode.ro/
     type: markup
-    suffix: ".html?wcmmode=disabled"
+    suffix: ".md"
