@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://frank.naiscode.ro/
+    url: https://frankful-fn.ensemble-software.dev/converter/
     type: markup
-    suffix: ".html?wcmmode=disabled"
+    suffix: ""
